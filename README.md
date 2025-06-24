@@ -420,3 +420,11 @@
         modified:   apps/properties/views.py
         modified:   config/urls.py
         new file:   templates/properties/properties.html
+
+#### 6.8. Adding agents page
+
+        modified:   README.md
+        new file:   apps/agents/urls.py
+        modified:   apps/agents/views.py
+        modified:   config/urls.py
+        new file:   templates/agents/agents.html
