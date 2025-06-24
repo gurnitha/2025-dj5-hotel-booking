@@ -258,3 +258,85 @@
         (venv3151) λ python manage.py check
         modified:   README.md
         modified:   config/settings.py
+
+#### 4.8. The project's strunctures
+
+        (venv3151) λ tree /f
+        Folder PATH listing for volume Local Disk
+        Volume serial number is 42EB-BBDC
+        E:.
+        │   .gitignore
+        │   db.sqlite3
+        │   manage.py
+        │   README.md
+        │
+        ├───about
+        │   │   admin.py
+        │   │   apps.py
+        │   │   models.py
+        │   │   tests.py
+        │   │   views.py
+        │   │   __init__.py
+        │   │
+        │   ├───migrations
+        │   │   │   __init__.py
+        │
+        ├───agents
+        │   │   admin.py
+        │   │   apps.py
+        │   │   models.py
+        │   │   tests.py
+        │   │   views.py
+        │   │   __init__.py
+        │   │
+        │   ├───migrations
+        │   │   │   __init__.py
+        │
+        ├───config
+        │   │   asgi.py
+        │   │   settings.py
+        │   │   urls.py
+        │   │   wsgi.py
+        │   │   __init__.py
+        │
+        ├───contact
+        │   │   admin.py
+        │   │   apps.py
+        │   │   models.py
+        │   │   tests.py
+        │   │   views.py
+        │   │   __init__.py
+        │   │
+        │   ├───migrations
+        │
+        ├───home
+        │   │   admin.py
+        │   │   apps.py
+        │   │   models.py
+        │   │   tests.py
+        │   │   views.py
+        │   │   __init__.py
+        │   │
+        │   ├───migrations
+        │
+        ├───properties
+        │   │   admin.py
+        │   │   apps.py
+        │   │   models.py
+        │   │   tests.py
+        │   │   views.py
+        │   │   __init__.py
+        │   │
+        │   ├───migrations
+        │   │   │   __init__.py
+        │
+        └───users
+            │   admin.py
+            │   apps.py
+            │   models.py
+            │   tests.py
+            │   views.py
+            │   __init__.py
+            │
+            ├───migrations
+            │   │   __init__.py
