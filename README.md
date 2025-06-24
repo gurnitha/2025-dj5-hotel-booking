@@ -17,3 +17,22 @@
         λ python -m venv venv3151
         λ ls
         venv3151/
+
+#### 1.3. Installing Django version 5.1
+
+        λ venv3151\Scripts\activate.bat
+        (venv3151) λ pip install django==5.1
+        Collecting django==5.1
+          ...
+        Using cached Django-5.1-py3-none-any.whl (8.2 MB)
+        Using cached asgiref-3.8.1-py3-none-any.whl (23 kB)
+        Using cached sqlparse-0.5.3-py3-none-any.whl (44 kB)
+        Using cached tzdata-2025.2-py2.py3-none-any.whl (347 kB)
+        Installing collected packages: tzdata, sqlparse, asgiref, django
+        Successfully installed asgiref-3.8.1 django-5.1 sqlparse-0.5.3 tzdata-2025.2
+
+        [notice] A new release of pip is available: 23.2.1 -> 25.1.1
+        [notice] To update, run: python.exe -m pip install --upgrade pip
+
+        (venv3151) λ django-admin --version
+        5.1
