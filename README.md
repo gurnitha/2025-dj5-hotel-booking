@@ -428,3 +428,11 @@
         modified:   apps/agents/views.py
         modified:   config/urls.py
         new file:   templates/agents/agents.html
+
+#### 6.9. Adding about page
+
+        modified:   README.md
+        new file:   apps/about/urls.py
+        modified:   apps/about/views.py
+        modified:   config/urls.py
+        new file:   templates/about/about.html

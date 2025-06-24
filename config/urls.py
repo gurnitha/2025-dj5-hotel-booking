@@ -25,4 +25,6 @@ urlpatterns = [
     path('', include('properties.urls', namespace='properties')),
     # agents
     path('', include('agents.urls', namespace='agents')),
+    # about
+    path('', include('about.urls', namespace='about')),
 ]
