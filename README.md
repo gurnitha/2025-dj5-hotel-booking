@@ -400,3 +400,9 @@
         modified:   README.md
         modified:   config/settings.py
         modified:   templates/home/index.html
+
+#### 6.5. Creating base template
+
+        modified:   README.md
+        modified:   apps/home/views.py
+        new file:   templates/base.html
