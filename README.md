@@ -61,3 +61,28 @@
 
 
 ## 3. Creating Project
+
+#### 3.1. Creating Django project
+
+        modified:   README.md
+        new file:   config/__init__.py
+        new file:   config/asgi.py
+        new file:   config/settings.py
+        new file:   config/urls.py
+        new file:   config/wsgi.py
+        new file:   manage.py
+        
+        (venv3151) λ tree /f
+        Folder PATH listing for volume Local Disk
+        Volume serial number is 42EB-BBDC
+        E:.
+        │   .gitignore
+        │   manage.py
+        │   README.md
+        │
+        └───config
+                asgi.py
+                settings.py
+                urls.py
+                wsgi.py
+                __init__.py
