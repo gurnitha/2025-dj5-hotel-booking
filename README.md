@@ -123,8 +123,8 @@
             sqlmigrate
             sqlsequencereset
             squashmigrations
-            startapp
-            startproject
+            startapp # <---
+            startproject # <---
             test
             testserver
 
@@ -153,3 +153,47 @@
 
 
 ## 4. Creating Apps
+
+#### 4.1. Creating 'home' app
+
+        modified:   README.md
+        new file:   home/__init__.py
+        new file:   home/admin.py
+        new file:   home/apps.py
+        new file:   home/migrations/__init__.py
+        new file:   home/models.py
+        new file:   home/tests.py
+        new file:   home/views.py
+        
+        (venv3151) λ tree /f
+        Folder PATH listing for volume Local Disk
+        Volume serial number is 42EB-BBDC
+        E:.
+        │   .gitignore
+        │   db.sqlite3
+        │   manage.py
+        │   README.md
+        │
+        ├───config
+        │   │   asgi.py
+        │   │   settings.py
+        │   │   urls.py
+        │   │   wsgi.py
+        │   │   __init__.py
+        │   │
+        │   └───__pycache__
+        │           settings.cpython-312.pyc
+        │           urls.cpython-312.pyc
+        │           wsgi.cpython-312.pyc
+        │           __init__.cpython-312.pyc
+        │
+        └───home
+            │   admin.py
+            │   apps.py
+            │   models.py
+            │   tests.py
+            │   views.py
+            │   __init__.py
+            │
+            └───migrations
+                    __init__.py
