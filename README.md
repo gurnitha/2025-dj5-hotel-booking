@@ -241,3 +241,14 @@
         new file:   contact/models.py
         new file:   contact/tests.py
         new file:   contact/views.py
+
+#### 4.6. Creating 'users' app
+
+        modified:   README.md
+        new file:   users/__init__.py
+        new file:   users/admin.py
+        new file:   users/apps.py
+        new file:   users/migrations/__init__.py
+        new file:   users/models.py
+        new file:   users/tests.py
+        new file:   users/views.py
