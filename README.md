@@ -387,3 +387,10 @@
 
         modified:   README.md
         modified:   templates/home/index.html
+
+#### 6.3. Adding static assets
+
+        modified:   .gitignore
+        modified:   README.md
+
+        Note: for copyright reasons, assets by designed, are ignored in git commit
