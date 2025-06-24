@@ -252,3 +252,9 @@
         new file:   users/models.py
         new file:   users/tests.py
         new file:   users/views.py
+
+#### 4.7. Registering the apps to the project
+
+        (venv3151) λ python manage.py check
+        modified:   README.md
+        modified:   config/settings.py
