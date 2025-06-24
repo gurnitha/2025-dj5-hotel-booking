@@ -394,3 +394,9 @@
         modified:   README.md
 
         Note: for copyright reasons, assets by designed, are ignored in git commit
+
+#### 6.4. Loading static assets to home page
+
+        modified:   README.md
+        modified:   config/settings.py
+        modified:   templates/home/index.html
