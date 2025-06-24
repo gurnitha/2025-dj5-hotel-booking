@@ -21,4 +21,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     # home
     path('', include('home.urls', namespace='home')),
+    # properties
+    path('', include('properties.urls', namespace='properties')),
 ]

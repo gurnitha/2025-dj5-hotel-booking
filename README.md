@@ -413,3 +413,10 @@
         modified:   apps/home/views.py
         modified:   templates/base.html
         modified:   templates/home/index.html
+
+#### 6.7. Adding properties page
+
+        new file:   apps/properties/urls.py
+        modified:   apps/properties/views.py
+        modified:   config/urls.py
+        new file:   templates/properties/properties.html
