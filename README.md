@@ -46,9 +46,15 @@
 
 ## 2. Creating remote repository
 
-#### 2.2. Creating remote repositori on Github
+#### 2.1. Creating remote repository on Github
 
         Creating an account
         Login
         Creating a new repository
         https://github.com/gurnitha/2025-dj5-hotel-booking
+
+#### 2.2. Pushing remote repository on Github
+
+        git remote add origin git@github.com:gurnitha/2025-dj5-hotel-booking.git
+        git branch -M main
+        git push -u origin main
