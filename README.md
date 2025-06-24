@@ -164,7 +164,7 @@
         new file:   home/models.py
         new file:   home/tests.py
         new file:   home/views.py
-        
+
         (venv3151) λ tree /f
         Folder PATH listing for volume Local Disk
         Volume serial number is 42EB-BBDC
@@ -197,3 +197,14 @@
             │
             └───migrations
                     __init__.py
+
+#### 4.2. Creating 'properties' app
+
+        modified:   README.md
+        new file:   properties/__init__.py
+        new file:   properties/admin.py
+        new file:   properties/apps.py
+        new file:   properties/migrations/__init__.py
+        new file:   properties/models.py
+        new file:   properties/tests.py
+        new file:   properties/views.py
