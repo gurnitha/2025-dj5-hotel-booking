@@ -71,7 +71,7 @@
         new file:   config/urls.py
         new file:   config/wsgi.py
         new file:   manage.py
-        
+
         (venv3151) λ tree /f
         Folder PATH listing for volume Local Disk
         Volume serial number is 42EB-BBDC
@@ -86,3 +86,52 @@
                 urls.py
                 wsgi.py
                 __init__.py
+
+#### 3.2. Python manage.py sub commands
+
+        (venv3151) λ python manage.py
+
+        Type 'manage.py help <subcommand>' for help on a specific subcommand.
+
+        Available subcommands:
+
+        [auth]
+            changepassword
+            createsuperuser
+
+        [contenttypes]
+            remove_stale_contenttypes
+
+        [django]
+            check
+            compilemessages
+            createcachetable
+            dbshell
+            diffsettings
+            dumpdata
+            flush
+            inspectdb
+            loaddata
+            makemessages
+            makemigrations
+            migrate
+            optimizemigration
+            sendtestemail
+            shell
+            showmigrations
+            sqlflush
+            sqlmigrate
+            sqlsequencereset
+            squashmigrations
+            startapp
+            startproject
+            test
+            testserver
+
+        [sessions]
+            clearsessions
+
+        [staticfiles]
+            collectstatic
+            findstatic
+            runserver # <---
