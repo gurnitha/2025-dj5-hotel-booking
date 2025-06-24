@@ -375,3 +375,10 @@
 
 
 ## 6. Django's Views, Urls, and Template
+
+#### 6.1. 'Hello, World from template'
+
+        modified:   README.md
+        modified:   apps/home/views.py
+        modified:   config/settings.py
+        new file:   templates/home/index.html

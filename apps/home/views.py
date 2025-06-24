@@ -9,5 +9,4 @@ from django.http import HttpResponse
 # Create your views here.
 
 def home(request):
-    # request is handled using HttpResponse object
-    return HttpResponse("Hello, World")
+    return render(request, 'home/index.html')
