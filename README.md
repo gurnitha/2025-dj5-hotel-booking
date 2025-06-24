@@ -219,3 +219,14 @@
         new file:   agents/models.py
         new file:   agents/tests.py
         new file:   agents/views.py
+
+#### 4.4. Creating 'about' app
+
+        modified:   README.md
+        new file:   about/__init__.py
+        new file:   about/admin.py
+        new file:   about/apps.py
+        new file:   about/migrations/__init__.py
+        new file:   about/models.py
+        new file:   about/tests.py
+        new file:   about/views.py
