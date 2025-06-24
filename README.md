@@ -11,3 +11,9 @@
 
         λ pip --version
         pip 25.0.1
+
+#### 1.2. Creating virtual environment venv3151
+
+        λ python -m venv venv3151
+        λ ls
+        venv3151/
