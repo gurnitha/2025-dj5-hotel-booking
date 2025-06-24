@@ -406,3 +406,10 @@
         modified:   README.md
         modified:   apps/home/views.py
         new file:   templates/base.html
+
+#### 6.6. Extending base template to the home page
+
+        modified:   README.md
+        modified:   apps/home/views.py
+        modified:   templates/base.html
+        modified:   templates/home/index.html
