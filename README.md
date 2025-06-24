@@ -42,3 +42,6 @@
         (venv3151) λ python.exe -m pip install --upgrade pip
         ...
         Successfully installed pip-25.1.1
+
+
+## 2. Creating remote repository
