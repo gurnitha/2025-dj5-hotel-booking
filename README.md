@@ -45,3 +45,10 @@
 
 
 ## 2. Creating remote repository
+
+#### 2.2. Creating remote repositori on Github
+
+        Creating an account
+        Login
+        Creating a new repository
+        https://github.com/gurnitha/2025-dj5-hotel-booking
