@@ -340,3 +340,25 @@
             │
             ├───migrations
             │   │   __init__.py
+
+#### 4.9.Restruncturing the project
+
+        tree -L 2
+        .
+        ├── README.md
+        ├── apps
+        │   ├── about
+        │   ├── agents
+        │   ├── contact
+        │   ├── home
+        │   ├── properties
+        │   └── users
+        ├── config
+        │   ├── __init__.py
+        │   ├── __pycache__
+        │   ├── asgi.py
+        │   ├── settings.py
+        │   ├── urls.py
+        │   └── wsgi.py
+        ├── db.sqlite3
+        └── manage.py
