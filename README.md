@@ -230,3 +230,14 @@
         new file:   about/models.py
         new file:   about/tests.py
         new file:   about/views.py
+
+#### 4.5. Creating 'contact' app
+
+        modified:   README.md
+        new file:   contact/__init__.py
+        new file:   contact/admin.py
+        new file:   contact/apps.py
+        new file:   contact/migrations/__init__.py
+        new file:   contact/models.py
+        new file:   contact/tests.py
+        new file:   contact/views.py
