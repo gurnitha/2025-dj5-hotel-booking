@@ -382,3 +382,8 @@
         modified:   apps/home/views.py
         modified:   config/settings.py
         new file:   templates/home/index.html
+
+#### 6.2. Adding html code to the template
+
+        modified:   README.md
+        modified:   templates/home/index.html
