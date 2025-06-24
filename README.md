@@ -365,3 +365,10 @@
 
 
 ## 5. Hello, World
+
+#### 5.1. Displaying 'Hello, World'
+
+        modified:   README.md
+        new file:   apps/home/urls.py
+        modified:   apps/home/views.py
+        modified:   config/urls.py
