@@ -58,3 +58,6 @@
         git remote add origin git@github.com:gurnitha/2025-dj5-hotel-booking.git
         git branch -M main
         git push -u origin main
+
+
+## 3. Creating Project
