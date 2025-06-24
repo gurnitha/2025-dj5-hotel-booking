@@ -372,3 +372,6 @@
         new file:   apps/home/urls.py
         modified:   apps/home/views.py
         modified:   config/urls.py
+
+
+## 6. Django's Views, Urls, and Template
