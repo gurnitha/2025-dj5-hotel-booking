@@ -208,3 +208,14 @@
         new file:   properties/models.py
         new file:   properties/tests.py
         new file:   properties/views.py
+
+#### 4.3. Creating 'agents' app
+
+        modified:   README.md
+        new file:   agents/__init__.py
+        new file:   agents/admin.py
+        new file:   agents/apps.py
+        new file:   agents/migrations/__init__.py
+        new file:   agents/models.py
+        new file:   agents/tests.py
+        new file:   agents/views.py
