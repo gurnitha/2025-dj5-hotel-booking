@@ -481,3 +481,8 @@
 
         modified:   README.md
         modified:   templates/base.html
+
+#### 9.2. Adding active state to the navigation
+
+        modified:   README.md
+        modified:   templates/base.html
