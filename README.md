@@ -460,3 +460,6 @@
         modified:   templates/contact/contact.html
         modified:   templates/home/index.html
         modified:   templates/properties/properties.html
+
+
+## 8. Page title
