@@ -447,3 +447,16 @@
 
 
 ## 7. Templates inheritance
+
+#### 7.1. Creating partials template
+
+        modified:   README.md
+        new file:   templates/_partials/explore-our-neighborhoods.html
+        new file:   templates/_partials/featured-listing.html
+        new file:   templates/_partials/our-agents.html
+        new file:   templates/_partials/why-choose-us.html
+        modified:   templates/about/about.html
+        modified:   templates/agents/agents.html
+        modified:   templates/contact/contact.html
+        modified:   templates/home/index.html
+        modified:   templates/properties/properties.html
