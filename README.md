@@ -444,3 +444,6 @@
         modified:   apps/contact/views.py
         modified:   config/urls.py
         new file:   templates/contact/contact.html
+
+
+## 7. Templates inheritance
