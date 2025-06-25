@@ -436,3 +436,11 @@
         modified:   apps/about/views.py
         modified:   config/urls.py
         new file:   templates/about/about.html
+
+#### 6.10. Adding contact page
+
+        modified:   README.md
+        new file:   apps/contact/urls.py
+        modified:   apps/contact/views.py
+        modified:   config/urls.py
+        new file:   templates/contact/contact.html

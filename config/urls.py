@@ -27,4 +27,6 @@ urlpatterns = [
     path('', include('agents.urls', namespace='agents')),
     # about
     path('', include('about.urls', namespace='about')),
+    # contact
+    path('', include('contact.urls', namespace='contact')),
 ]
