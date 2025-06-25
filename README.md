@@ -463,3 +463,13 @@
 
 
 ## 8. Page title
+
+#### 8.1. Adding page title using block super
+
+        modified:   README.md
+        modified:   templates/about/about.html
+        modified:   templates/agents/agents.html
+        modified:   templates/base.html
+        modified:   templates/contact/contact.html
+        modified:   templates/home/index.html
+        modified:   templates/properties/properties.html
