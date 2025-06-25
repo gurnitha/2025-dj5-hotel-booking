@@ -25,18 +25,18 @@
   <div class="probootstrap-loader"></div>
   <header role="banner" class="probootstrap-header">
     <div class="container">
-        <a href="index.html" class="probootstrap-logo">Haus<span>.</span></a>
+        <a href="{% url 'home:home' %}" class="probootstrap-logo">Haus<span>.</span></a>
         
         <a href="#" class="probootstrap-burger-menu visible-xs" ><i>Menu</i></a>
         <div class="mobile-menu-overlay"></div>
 
         <nav role="navigation" class="probootstrap-nav hidden-xs">
           <ul class="probootstrap-main-nav">
-            <li class="active"><a href="index.html">Home</a></li>
-            <li><a href="properties.html">Properties</a></li>
-            <li><a href="agents.html">Agents</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="contact.html">Contact</a></li>
+            <li class="active"><a href="{% url 'home:home' %}">Home</a></li>
+            <li><a href="{% url 'properties:properties' %}">Properties</a></li>
+            <li><a href="{% url 'agents:agents' %}">Agents</a></li>
+            <li><a href="{% url 'about:about' %}">About</a></li>
+            <li><a href="{% url 'contact:contact' %}">Contact</a></li>
           </ul>
           <div class="extra-text visible-xs"> 
             <a href="#" class="probootstrap-burger-menu"><i>Menu</i></a>

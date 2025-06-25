@@ -476,3 +476,8 @@
 
 
 ## 9. Navigations
+
+#### 9.1. Linking the pages
+
+        modified:   README.md
+        modified:   templates/base.html
